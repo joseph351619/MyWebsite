@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\MyWebsite\mywebsite\bin\Debug\netcoreapp2.1\MyWebsite.deps.json
+C:\Users\USER\Desktop\MyWebsite\mywebsite\bin\Debug\netcoreapp2.1\MyWebsite.runtimeconfig.json
+C:\Users\USER\Desktop\MyWebsite\mywebsite\bin\Debug\netcoreapp2.1\MyWebsite.runtimeconfig.dev.json
+C:\Users\USER\Desktop\MyWebsite\mywebsite\bin\Debug\netcoreapp2.1\MyWebsite.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite\bin\Debug\netcoreapp2.1\MyWebsite.pdb
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite\obj\Debug\netcoreapp2.1\MyWebsite.pdb

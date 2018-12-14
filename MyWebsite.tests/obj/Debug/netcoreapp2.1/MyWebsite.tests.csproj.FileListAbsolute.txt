@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\MyWebsite.tests.deps.json
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\MyWebsite.tests.runtimeconfig.json
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\MyWebsite.tests.runtimeconfig.dev.json
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\MyWebsite.tests.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\MyWebsite.tests.pdb
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.pdb
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\mywebsite.dll
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\bin\Debug\netcoreapp2.1\mywebsite.pdb
+C:\Users\USER\Desktop\MyWebsite\mywebsite.tests\obj\Debug\netcoreapp2.1\MyWebsite.tests.csproj.CopyComplete
